@@ -5,21 +5,21 @@ const testimonials = [
     name: "Ana Ribeiro",
     role: "Comprou apartamento em São Paulo",
     text:
-      "Encontrei o meu apartamento em menos de uma semana. Apoio incrível!",
+      "Encontrei o apartamento ideal em menos de uma semana. Suporte extraordinário!",
     avatar: "https://i.pravatar.cc/80?img=47",
   },
   {
     name: "Marcos Andrade",
     role: "Arrendou em Lisboa",
     text:
-      "Processo claro e seguro. Senti-me acompanhado do início ao fim.",
+      "Processo transparente e seguro. Senti acompanhamento do início ao fim.",
     avatar: "https://i.pravatar.cc/80?img=12",
   },
   {
     name: "Camila Soares",
     role: "Comprou casa em Florianópolis",
     text:
-      "Equipa humana e muito atenciosa. Recomendo de olhos fechados!",
+      "Equipa humana e atenciosa. Recomendo sem hesitar!",
     avatar: "https://i.pravatar.cc/80?img=32",
   },
 ];
@@ -33,7 +33,7 @@ export const Testimonials = () => {
             O que os nossos clientes dizem
           </h2>
           <p className="mt-2 text-sm md:text-base" style={{ color: "#555555" }}>
-            Histórias reais que inspiram confiança
+            Relatos verdadeiros que geram confiança
           </p>
         </div>
 

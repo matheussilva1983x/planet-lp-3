@@ -5,7 +5,7 @@ const benefits = [
     icon: CheckCircle,
     title: "Imóveis verificados",
     description:
-      "Cada imóvel passa por uma seleção rigorosa para garantir transparência e confiança.",
+      "Cada propriedade é avaliada com rigor para assegurar total transparência e credibilidade.",
     circleBg: "bg-[#F2D5C1]",
     iconColor: "text-[#C2855E]",
   },
@@ -13,7 +13,7 @@ const benefits = [
     icon: Shield,
     title: "Segurança total",
     description:
-      "Compra e arrendamento com segurança e acompanhamento em todas as etapas.",
+      "Compra ou arrendamento com processos seguros e acompanhamento em todas as fases.",
     circleBg: "bg-[#F2D5C1]",
     iconColor: "text-[#C2855E]",
   },
@@ -21,7 +21,7 @@ const benefits = [
     icon: Headphones,
     title: "Apoio humano",
     description:
-      "Uma equipa real, pronta para o ajudar a encontrar o imóvel certo.",
+      "Uma equipa dedicada, pronta para o orientar até ao imóvel ideal.",
     circleBg: "bg-[#F2D5C1]",
     iconColor: "text-[#C2855E]",
   },
@@ -36,10 +36,10 @@ export const Benefits = () => {
             Porque escolher a JoviPlanet?
           </h2>
           <p className="mt-3 text-base md:text-xl max-w-3xl mx-auto" style={{ color: "#444444" }}>
-            Ligamo-lo aos melhores imóveis com segurança e excelência
+            Conectamo-lo aos melhores imóveis com segurança e excelência.
           </p>
           <p className="mt-4 text-base md:text-lg italic font-medium" style={{ color: "#C2855E" }}>
-            Mais do que imóveis, realizamos sonhos com segurança e cuidado.
+            Mais do que imóveis, realizamos sonhos com cuidado e confiança.
           </p>
         </div>
 

@@ -34,7 +34,7 @@ const Index = () => {
       <section
         className="relative min-h-screen flex items-center bg-primary overflow-hidden"
         style={{
-          backgroundImage: `linear-gradient(rgba(13, 58, 46, 0.7), rgba(13, 58, 46, 0.7)), url(/Julho-Lugares-jpg.jpg)`,
+          backgroundImage: `linear-gradient(rgba(13, 58, 46, 0.4), rgba(13, 58, 46, 0.4)), url(/Julho-Lugares-jpg.jpg)`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundAttachment: "fixed",
